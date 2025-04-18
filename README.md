@@ -21,7 +21,7 @@ Figma URL: [Figma Design](https://www.figma.com/proto/c4u9pwbdoiv7g3Di6OYMF5/Mon
 
 ## 🚀 Deployed URL
 
-Frontend is deployed and accessible here: [Moncq Live Site](https://your-deployment-url.com)
+Frontend is deployed and accessible here: [Moncq Live Site](http://moncq.duckdns.org/)
 
 ---
 
