@@ -55,7 +55,7 @@ Browser (Frontend running locally on port 3000 or 3001)
 ### ⚙️ Setup Instructions
 Ensure .env.local is properly configured
 
-📝 Make sure your .env.local file is pointing to the correct EC2 backend URL (e.g. https://your-ec2-domain/api).
+📝 Make sure your .env.local file is pointing to the correct EC2 backend URL (e.g. http://3.231.198.58:4000/api).
 
 ### Install dependencies
 ```bash
